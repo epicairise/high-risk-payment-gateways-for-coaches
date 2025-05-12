@@ -1,0 +1,53 @@
+/// ✨ PART 1: /data/products.json
+[
+  {
+    "position": 1,
+    "name": "PayKings",
+    "slug": "paykings",
+    "description": "Specializes in high-risk merchant accounts for coaching businesses, offering tailored solutions to manage chargebacks and recurring billing.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paykings.jpg",
+    "target_audience_match": "Perfect for coaches who are overwhelmed by chargebacks and need a partner who understands the payment complexities of coaching.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Zen Payments",
+    "slug": "zen-payments",
+    "description": "Offers over 15 years of experience in providing high-risk payment solutions, ensuring stability and flexibility for coaching businesses.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/zen-payments.jpg",
+    "target_audience_match": "Great for busy coaches who need fast approvals and flexible options without the usual delays.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "DirectPayNet",
+    "slug": "directpaynet",
+    "description": "Provides customized merchant account solutions for online coaching businesses, focusing on seamless transactions and fraud protection.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/directpaynet.jpg",
+    "target_audience_match": "Ideal for online coaches tired of cookie-cutter processors and looking for custom-fit solutions.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "SeamlessChex",
+    "slug": "seamlesschex",
+    "description": "Specializes in high-risk payment processing for online coaching, supporting various coaching niches with secure transactions.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/seamlesschex.jpg",
+    "target_audience_match": "Perfect for coaches running memberships or recurring programs who need secure, reliable billing.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "PayProcc",
+    "slug": "payprocc",
+    "description": "Offers payment solutions for high-ticket coaching businesses, focusing on fraud prevention and chargeback management.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/payprocc.jpg",
+    "target_audience_match": "Best for high-ticket coaches who can't afford to lose revenue to fraud or chargebacks.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  }
+]
